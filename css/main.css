@@ -1,0 +1,132 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	background: url(../images/Curlicues_03.svg);
+}
+
+
+#container
+{
+	width: 980px;
+	overflow: hidden;
+	background-color: #381F1F;
+	margin: auto;
+
+}
+
+#mainHeader
+{
+	height: 170px;
+	background-color: #FF724C;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	margin-bottom: 20px;
+	
+}
+
+#title
+{
+	color: #fff;
+	font-family: Myriad Pro, Helvetica, san-serif;
+	font-size: 31px;
+	margin: 0;
+	padding: 0;
+	float: right;
+	margin-top: 70px;
+	margin-right: 320px;
+}
+
+#introSection
+{
+	float: left;
+	width: 900px;
+	height: 300px;
+	overflow: hidden;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+
+#introTitle
+{
+	background-color: #cc2b00;
+	color: #fff;
+	font-family: Avenir Next Bold, Helvetica, san-serif;
+	font-size: 20px;
+	width: 170px;
+	padding: 5px;
+	margin: 0;
+	margin-left: 220px;	
+	margin-top: 40px;
+}
+
+#introPic
+{
+	float: left;
+	margin: 0px;
+	margin-right: 20px;
+	
+}
+
+#introPara
+{
+	margin: 0;
+	margin-left: 50px;
+	padding: 20px;
+	background-color: #ff3500;
+	color: #fff;
+	font-family: Avenir Next, Helvetica, san-serif;
+}
+
+#detailSection
+{
+	float: left;
+	width: 900px;
+	margin-bottom: 20px;
+}
+
+#beachPic
+{
+	float: left;
+	
+	
+}
+
+#detailTitle
+{
+	float: right;
+	background-color: #cc2b00;
+	color: #fff;
+	font-family: Avenir Next Bold, Helvetica, san-serif;
+	font-size: 20px;
+	width: 170px;
+	padding: 5px;
+	margin: 0;
+	margin-right: 200px;
+}
+
+#detailPara
+{
+	float: right;
+	width: 360px;
+	background-color: #ff3500;
+	margin-right: 80px;
+	padding: 5px;
+	color: #fff;
+	font-family: Avenir Next, Helvetica, san-serif;
+}
+
+#text2
+{
+	background-color: #ff3500;
+	width: 900px;
+	float: left;
+}
+
